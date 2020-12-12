@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px; margin-top: 10px;" ></h1>
+<h1 align="center">Hi, I am Zura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px; margin-top: 10px;" ></h1>
 
 <div style="display: flex; justify-content: center; margin-top: 40px;" align="center">
     <a target="_blank" href="https://facebook.com/kurtana.py">
@@ -13,6 +13,8 @@
 </div>
 
 ---
+
+
 ### My Profile Stats
 <p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api?username=zura12337&show_icons=true&theme=dracula" alt="stats"/></p>
 <p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura12337&layout=compact&theme=dracula" alt="top-langs"/></p>
