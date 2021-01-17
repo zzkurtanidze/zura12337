@@ -10,6 +10,9 @@
     <a target="_blank" href="mailto:zura.kurta@gmail.com">
         <img align="left" alt="Zura Kurtanidze's Gmail" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width="25" style="position: relative; bottom: 10px;" />
     </a>
+    <a target="_blank" href="https://www.linkedin.com/in/zura-kurtanidze-b991b61aa/">
+        <img align="left" alt"Zura Kurtanidze's Linkedin" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1610885267~hmac=f4b763ccce55173610ca7125c192ab99" width="25" style="position: relative; bottom: 10px; background: white;" />    
+    </a>
 </div>
 
 ---
