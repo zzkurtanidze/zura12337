@@ -23,4 +23,4 @@
 <p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura12337&layout=compact&theme=dracula" alt="top-langs"/></p>
 
 
-<img src="https://profile-counter.glitch.me/zura12337/count.svg" alt="visitors count" align="middle"/>
+<img src="https://profile-counter.glitch.me/zura12337/count.svg" alt="visitors count" align="center"/>
