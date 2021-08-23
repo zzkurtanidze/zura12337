@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I am Zura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px; margin-top: 10px;" ></h1>
-
 <div style="display: flex; justify-content: center; margin-top: 40px;" align="center">
     <a target="_blank" href="https://facebook.com/kurtana.py">
         <img align="left" alt="Zura Kurtanidze's Facebook" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="25" style="position: relative; bottom: 10px;" />
