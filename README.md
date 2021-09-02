@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; margin-top: 40px;" align="center">
     <a target="_blank" href="https://facebook.com/kurtana.py">
-        <img align="left" alt="Zura Kurtanidze's Facebook" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="25" style="position: relative; bottom: 10px;" />
+        <img align="left" alt="Zura Kurtanidze's Facebook" src="https://image.flaticon.com/icons/png/512/733/733547.png" width="25" style="position: relative; bottom: 10px;" />
     </a>
     <a target="blank_" href="https://instagram.com/kurtana.py">
         <img align="left" alt="Zura Kurtanidze's Instagram" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width="25" style="position: relative; bottom: 10px;" />
