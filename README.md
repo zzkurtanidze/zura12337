@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; margin-top: 40px;" align="center">
+<div style="display: none; justify-content: center; margin-top: 40px;" align="center">
     <a target="_blank" href="https://facebook.com/kurtana.py">
         <img align="left" alt="Zura Kurtanidze's Facebook" src="https://image.flaticon.com/icons/png/512/733/733547.png" width="25" style="position: relative; bottom: 10px;" />
     </a>
@@ -17,8 +17,8 @@
 
 
 ### My Profile Stats
-<p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api?username=zura12337&show_icons=true&theme=dracula" alt="stats"/></p>
-<p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura12337&layout=compact&theme=dracula" alt="top-langs"/></p>
+<p style="text-align: center;"><img style="display:none" src="https://github-readme-stats.vercel.app/api?username=zura12337&show_icons=true&theme=dracula" alt="stats"/></p>
+<p style="text-align: center;"><img style="display:none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zura12337&layout=compact&theme=dracula" alt="top-langs"/></p>
 
 
-<img src="https://profile-counter.glitch.me/zura12337/count.svg" alt="visitors count" align="center"/>
+<img src="https://profile-counter.glitch.me/zura12337/count.svg"  style="display: none" alt="visitors count" align="center"/>
